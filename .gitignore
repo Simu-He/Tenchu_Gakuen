@@ -2,12 +2,5 @@
 # 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
 ################################################################################
 
-/.vs/Tenchu_Gakuen/v17/.wsuo
-/.vs/Tenchu_Gakuen/FileContentIndex/f8333019-3f2b-4045-a536-12f97059ffeb.vsidx
-/.vs/Tenchu_Gakuen/FileContentIndex/73b48de4-6fd8-4536-b374-83df714e9787.vsidx
-/.vs/Tenchu_Gakuen/FileContentIndex/462603cb-401d-470d-a27e-645c8abab416.vsidx
-/.vs/Tenchu_Gakuen/FileContentIndex/12ec50a8-2869-4c35-a305-64532637bbfa.vsidx
-/.vs/Tenchu_Gakuen/FileContentIndex/55712595-d74a-4305-9c65-120776f3d537.vsidx
-/.vs/Tenchu_Gakuen/FileContentIndex/7c05c8cb-2025-4136-ba6f-17ce11fa08eb.vsidx
-/.vs/slnx.sqlite
-/.vs/Tenchu_Gakuen/FileContentIndex/199f117a-5bed-4ba2-92d3-9a4ea6860191.vsidx
+/.vs
+
