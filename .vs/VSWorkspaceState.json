@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\logs"
   ],
-  "SelectedNode": "\\q1.py",
+  "SelectedNode": "\\logs\\action_log.log",
   "PreviewInSolutionExplorer": false
 }
