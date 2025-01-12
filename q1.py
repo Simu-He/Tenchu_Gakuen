@@ -5,7 +5,7 @@ import os
 
 log_directory = "logs"
 os.makedirs(log_directory, exist_ok=True)
-
+action_list_MAX = 9223372036854775808
 
 
 logging.basicConfig(
@@ -45,4 +45,4 @@ if __name__ == "__main__":
     location = "ijigen shokoko"
 
 
-    result = log_and_execute(human_id, time, location, 3,"happy new year")
+    log_and_execute(human_id, time, location, 9223372036854775809,"unkonw_rule")
