@@ -1,3 +1,6 @@
-2024-12-27 02:43:50,155 - INFO - Action executed: open_the_door | Human ID: 12345, Time: 2024-12-27T02:43:50.155974, Location: Earth
-2024-12-27 02:48:26,237 - INFO - Action executed: open_the_door | Human ID: 12345, Time: 2024-12-27T02:48:26.237029, Location: Earth
+2024-4-29 12:24:50,155 - INFO - Action executed: shoot_and_score | Human ID: 12321, Time: 2024-4-29T02:43:50.155974, Location: Playground
+2024-4-29 12:27:12,155 - INFO - Action executed: borrow_book | Human ID: 67835, Time: 2024-4-29T02:43:50.155974, Location: TeachingBuilding1
+2024-4-29 12:32:56,155 - INFO - Action executed: go_to_the_restroom | Human ID: 45647, Time: 2024-4-29T02:43:50.155974, Location: RestRoom
+2024-4-29 12:35:12,155 - INFO - Action executed: go_to_rikajikenshi | Human ID: 00003, Time: 2024-4-29T02:43:50.155974, Location: rikajikenshi
+2024-4-29 12:39:34,155 - INFO - Action executed: operate_comupter | Human ID: 00004, Time: 2024-4-29T02:43:50.155974, Location: Computer_Room
 2024-4-5 16:44:13,392 - ERROR - Error during action execution: list index out of range
